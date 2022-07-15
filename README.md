@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##Project Overview
+## Project Overview
 
 The Colorado election committee has requested additional information on top of the recent analysis completed for them in regards to the election audit. The board committee would now also like to determine the following:
 
@@ -12,7 +12,7 @@ The Colorado election committee has requested additional information on top of t
 
 The challenge is to use Python on the provided Election_results.csv file to calculate the desired statistics and print out the results to the terminal as well as in a text file that can be provided to the election committee.
 
-###Background
+### Background
 
 The audit originally requested the following information:
 
@@ -34,7 +34,7 @@ Data Source: election_results.csv
 
 Software: Python 3.7.6, Visual Studio code
 
-##Election-Audit Results
+## Election-Audit Results
 
 1. BREAKDOWN OF VOTES BY COUNTY AND PERCENTAGE BY COUNTY
 
@@ -62,7 +62,7 @@ Given the prior calculations, it is a simple matter to determine the winner of t
 
 ![image](https://user-images.githubusercontent.com/108489186/179317868-d473ffd3-7754-4b0a-8909-2243ee697c8a.png)
 
-##ELECTION AUDIT SUMMARY
+## ELECTION AUDIT SUMMARY
 
 The script provided for this audit is able to calculate the total votes, votes by county and candidate and the percentage of total votes these account for. The script can be used on any file of undetermined length with similar data elements. With some modification, the script could also produce statistics of interest such as:
 
